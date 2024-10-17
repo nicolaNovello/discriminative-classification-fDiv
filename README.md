@@ -43,12 +43,19 @@ For the decoding tasks, the file `main_communications.py` runs the experiments.
 
 If you use your code for your research, please cite our paper:
 ```
-@article{novello2024f,
-  title={$ f $-Divergence Based Classification: Beyond the Use of Cross-Entropy},
-  author={Novello, Nicola and Tonello, Andrea M},
-  journal={arXiv preprint arXiv:2401.01268},
-  year={2024}
+
+@InProceedings{pmlr-v235-novello24a,
+  title = 	 {$f$-Divergence Based Classification: Beyond the Use of Cross-Entropy},
+  author =       {Novello, Nicola and Tonello, Andrea M},
+  booktitle = 	 {Proceedings of the 41st International Conference on Machine Learning},
+  pages = 	 {38448--38473},
+  year = 	 {2024},
+  volume = 	 {235},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {21--27 Jul},
+  publisher =    {PMLR},
 }
+
 ```
 The implementation is based on / inspired by:
 

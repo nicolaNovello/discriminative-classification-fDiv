@@ -23,10 +23,18 @@ Official repository of the paper "$f$-Divergence Based Classification: Beyond th
 # 📈 Important results from our paper
 
 ## Computer Vision
+<img src="Figures/Tab.png"/>
 
 ## Signal Detection/Decoding
+Derangement             |  Permutation
+:-------------------------:|:-------------------------:
+![](https://github.com/nicolaNovello/fDIME/blob/main/Results/Staircase_GAN_deranged_d20_bs128_cubicFalse_derangements.png)  |  ![](https://github.com/nicolaNovello/fDIME/blob/main/Results/Staircase_GAN_deranged_d20_bs128_cubicFalse_permutations.png)
+<img src="Figures/dataset_AWGNpng">
+<img src="Figures/dataset_PAM_attenuation.png"/>
+<img src="Figures/dataset_PAM_triangular.png"/>
 
 ## Continuous Posterior Esimation
+<img src="Figures/exponential_gaussian.png"/>
 
 ---
 

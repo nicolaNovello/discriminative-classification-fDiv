@@ -26,12 +26,9 @@ Official repository of the paper "$f$-Divergence Based Classification: Beyond th
 <img src="Figures/Tab.png"/>
 
 ## Signal Detection/Decoding
-Derangement             |  Permutation
-:-------------------------:|:-------------------------:
-![](https://github.com/nicolaNovello/fDIME/blob/main/Results/Staircase_GAN_deranged_d20_bs128_cubicFalse_derangements.png)  |  ![](https://github.com/nicolaNovello/fDIME/blob/main/Results/Staircase_GAN_deranged_d20_bs128_cubicFalse_permutations.png)
-<img src="Figures/dataset_AWGNpng">
-<img src="Figures/dataset_PAM_attenuation.png"/>
-<img src="Figures/dataset_PAM_triangular.png"/>
+AWGN             |  PAM Attenuation  | PAM Triangular
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/nicolaNovello/discriminative-classification-fDiv/blob/main/Figures/dataset_AWGN.png)  |  ![](https://github.com/nicolaNovello/discriminative-classification-fDiv/blob/main/Figures/dataset_PAM_attenuation.png) |  ![](https://github.com/nicolaNovello/discriminative-classification-fDiv/blob/main/Figures/dataset_PAM_triangular.png) 
 
 ## Continuous Posterior Esimation
 <img src="Figures/exponential_gaussian.png"/>

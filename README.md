@@ -1,13 +1,36 @@
-# $f$-Divergence Based Classification: Beyond the Use of Cross-Entropy
+<div align="center">
+  
+# $f$-Divergence Based Classification:<br /> Beyond the Use of Cross-Entropy
 
-[Nicola Novello](https://scholar.google.com/citations?user=4PPM0GkAAAAJ&hl=it) and [Andrea M. Tonello](https://scholar.google.com/citations?user=qBiseEsAAAAJ&hl=it)
+[Nicola Novello](https://scholar.google.com/citations?user=4PPM0GkAAAAJ&hl=en) and [Andrea M. Tonello](https://scholar.google.com/citations?user=qBiseEsAAAAJ&hl=en)
 
-Official repository of the paper " $f$-Divergence Based Classification: Beyond the Use of Cross-Entropy " published at ICML 2024. 
+</div>
 
+
+Official repository of the paper "$f$-Divergence Based Classification: Beyond the Use of Cross-Entropy " published at ICML 2024. 
+
+> Novel class of objective functions for supervised classification problems, based on the $f$-divergence. We estimate the posterior probability (continuous or discrete) and maximize it to solve classification tasks. 
+
+<div align="center">
+
+[![license](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/nicolaNovello/discriminative-classification-fDiv/blob/main/LICENSE)
+[![Hits](https://hits.sh/github.com/nicolaNovello/discriminative-classification-fDiv.svg?label=Visitors&color=30a704)](https://hits.sh/github.com/nicolaNovello/discriminative-classification-fDiv/)
+
+</div>
 
 ---
 
-## How to run the code
+# 📈 Important results from our paper
+
+## Computer Vision
+
+## Signal Detection/Decoding
+
+## Continuous Posterior Esimation
+
+---
+
+# 💻 How to run the code
 
 For the image classification tasks, the file `main.py` runs the experiments. The code runs iterating over multiple random seeds, network architectures and objective functions. They can be set by modifying the lists: 
 ```
@@ -39,7 +62,7 @@ For the decoding tasks, the file `main_communications.py` runs the experiments.
 
 ---
 
-## References and Acknowledgments
+## 📝 References
 
 If you use your code for your research, please cite our paper:
 ```
@@ -57,6 +80,9 @@ If you use your code for your research, please cite our paper:
 }
 
 ```
+
+## 📋 Acknowledgments
+
 The implementation is based on / inspired by:
 
 - [https://github.com/kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar)  
@@ -64,6 +90,6 @@ The implementation is based on / inspired by:
 
 ---
 
-## Contact
+## 📧 Contact
 
 [nicola.novello@aau.at](nicola.novello@aau.at)

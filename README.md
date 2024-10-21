@@ -69,7 +69,7 @@ For the decoding tasks, the file `main_communications.py` runs the experiments.
 
 ## 📝 References
 
-If you use your code for your research, please cite our paper:
+If you use the code for your research, please cite our paper:
 ```
 
 @InProceedings{pmlr-v235-novello24a,

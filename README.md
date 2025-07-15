@@ -70,7 +70,7 @@ For the decoding tasks, the file `main_communications.py` runs the experiments.
 ## 📝 References
 
 If you use the code for your research, please cite our paper:
-```
+```bibtex
 
 @InProceedings{pmlr-v235-novello24a,
   title = 	 {$f$-Divergence Based Classification: Beyond the Use of Cross-Entropy},
